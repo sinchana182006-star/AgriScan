@@ -1,0 +1,6 @@
+{
+  "name": "AgriScan",
+  "description": "Offline AI-Powered Multi-Crop Disease, Pest & Health Diagnostic System with two-stage crop verification, top 3 differential diagnosis, and full multilingual support.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

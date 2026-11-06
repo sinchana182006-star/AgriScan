@@ -1,0 +1,23 @@
+{
+  "name": "AgriScan – Offline AI Crop Disease Intelligence",
+  "short_name": "AgriScan",
+  "description": "Offline AI-Powered Crop Disease, Pest & Health Diagnostic System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#047857",
+  "icons": [
+    {
+      "src": "/src/assets/images/agriscan_app_emblem_1793904223890.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/src/assets/images/agriscan_app_emblem_1793904223890.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
