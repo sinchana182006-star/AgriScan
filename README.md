@@ -1,20 +1,54 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🌱 AgriScan – Smart Crop Disease & Pest Identification
 
-# Run and deploy your AI Studio app
+### Helping Farmers Identify Crop Problems Early
 
-This contains everything you need to run your app locally.
+AgriScan is a farmer-friendly web application designed to help farmers identify crop diseases and pests, understand crop health, and access useful treatment and prevention suggestions.
 
-View your app in AI Studio: https://ai.studio/apps/732628b4-857d-4e16-9026-9f9faea5cbf3
+## 🌾 Key Features
 
-## Run Locally
+- 📷 Crop Disease Scanner
+- 🐛 Pest Identification
+- 🌿 Crop Health Report
+- 🔍 Multiple Disease Analysis
+- 💊 Treatment Recommendations
+- 📚 Disease Encyclopedia
+- 🌦️ Crop Risk Prediction
+- 📝 Farmer Notes and Reminders
+- 📱 Offline Access
+- 🌐 Multilingual Support
 
-**Prerequisites:**  Node.js
+## 🛠️ Technology Stack
 
+- Frontend: React, TypeScript
+- Styling: Tailwind CSS
+- Build Tool: Vite
+- Database: IndexedDB
+- Offline Support: Browser Storage and Service Worker
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ⚙️ Run Locally
+
+1. Clone the repository:
+
+   git clone https://github.com/sinchana182006-star/AgriScan.git
+
+2. Install dependencies:
+
+   npm install
+
+3. Start the application:
+
+   npm run dev
+
+4. Open http://localhost:3000
+
+## 🎯 Project Objective
+
+To provide farmers with a simple and accessible digital platform for early crop problem identification and better crop management.
+
+## 👩‍💻 Developed For
+
+Agriculture Innovation Hackathon
+
+---
+
+**AgriScan – Supporting Farmers, Protecting Crops.**
